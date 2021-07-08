@@ -1,0 +1,11 @@
+fun main() {
+    println( 5 + 5) //penjumlahan
+    println( 10 - 2) //pengurangan
+    println( 10 * 2) //perkalian
+    println( 10 / 2) //pembagian
+    
+    println( 5 / 2 ) //pembagian, jika dirun hasilnya 2, dikarenakan integer
+    
+    //jika ingin hasilnya 2.5 maka beri .0 dibelakangnya agar menjadi float/doble?
+    println( 5.0 / 2.0 )
+}
